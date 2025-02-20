@@ -1,0 +1,21 @@
+POST http://127.0.0.1:3002/api/login
+Content-Type: application/json
+
+{
+    "email" : "test@test.com",
+    "password" : "root123"
+}
+
+###
+POST http://127.0.0.1:3002/api/register
+Content-Type: application/json
+
+{
+    "username" : "Achmad Toriq Afandi",
+    "email" : "test@test.com",
+    "password" : "root123"
+}
+
+###
+GET http://127.0.0.1:3002/
+Content-Type: application/json

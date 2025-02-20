@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Rabbit - Legs",
+    "description": "Excision of Left Trunk Tendon, Open Approach",
+    "price": 7931,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Mustard Prepared",
+    "description": "Drainage of Nasal Turbinate with Drainage Device, Via Natural or Artificial Opening",
+    "price": 2478,
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "name": "Oil - Macadamia",
+    "description": "Removal of Drainage Device from Upper Extremity Subcutaneous Tissue and Fascia, Open Approach",
+    "price": 6151,
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "name": "Ice Cream - Chocolate",
+    "description": "Dilation of Left Renal Artery with Four or More Intraluminal Devices, Open Approach",
+    "price": 6913,
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "name": "Pepper - Red, Finger Hot",
+    "description": "Bypass Left External Iliac Artery to Bilateral Femoral Arteries with Synthetic Substitute, Open Approach",
+    "price": 6745,
+    "categoryId": 2
+  },
+  {
+    "id": 6,
+    "name": "Beef - Ox Tongue, Pickled",
+    "description": "Excision of Right Lesser Saphenous Vein, Open Approach",
+    "price": 2795,
+    "categoryId": 3
+  },
+  {
+    "id": 7,
+    "name": "Molasses - Fancy",
+    "description": "Supplement Right Thorax Muscle with Nonautologous Tissue Substitute, Open Approach",
+    "price": 1707,
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "name": "Veal - Heart",
+    "description": "Introduction of Destructive Agent into Products of Conception, Via Natural or Artificial Opening Endoscopic",
+    "price": 4648,
+    "categoryId": 2
+  },
+  {
+    "id": 9,
+    "name": "Squid - U 5",
+    "description": "Dilation of Left Internal Iliac Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach",
+    "price": 8120,
+    "categoryId": 3
+  },
+  {
+    "id": 10,
+    "name": "Dried Cranberries",
+    "description": "Replacement of Thoracic Vertebra with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",
+    "price": 2359,
+    "categoryId": 1
+  },
+  {
+    "id": 11,
+    "name": "Lobak",
+    "description": "Repair Left Ureter, Via Natural or Artificial Opening Endoscopic",
+    "price": 4494,
+    "categoryId": 2
+  },
+  {
+    "id": 12,
+    "name": "Barley - Pearl",
+    "description": "Supplement Right Shoulder Tendon with Synthetic Substitute, Open Approach",
+    "price": 2609,
+    "categoryId": 3
+  },
+  {
+    "id": 13,
+    "name": "Pastry - Trippleberry Muffin - Mini",
+    "description": "Dilation of Left Common Carotid Artery with Drug-eluting Intraluminal Device, Open Approach",
+    "price": 2663,
+    "categoryId": 1
+  },
+  {
+    "id": 14,
+    "name": "Nut - Pine Nuts, Whole",
+    "description": "Drainage of Cecum, Via Natural or Artificial Opening Endoscopic, Diagnostic",
+    "price": 3540,
+    "categoryId": 2
+  },
+  {
+    "id": 15,
+    "name": "Chickhen - Chicken Phyllo",
+    "description": "Release Trochlear Nerve, Open Approach",
+    "price": 999,
+    "categoryId": 3
+  },
+  {
+    "id": 16,
+    "name": "Long Island Ice Tea",
+    "description": "Removal of Radioactive Element from Pelvic Cavity, Percutaneous Endoscopic Approach",
+    "price": 8600,
+    "categoryId": 1
+  },
+  {
+    "id": 17,
+    "name": "Energy Drink Bawls",
+    "description": "Revision of Autologous Tissue Substitute in Left Tarsal, Percutaneous Approach",
+    "price": 1608,
+    "categoryId": 2
+  },
+  {
+    "id": 18,
+    "name": "The Pop Shoppe - Cream Soda",
+    "description": "Revision of Autologous Tissue Substitute in Bladder, External Approach",
+    "price": 8546,
+    "categoryId": 3
+  },
+  {
+    "id": 19,
+    "name": "Pork - Back Ribs",
+    "description": "Revision of External Fixation Device in Left Metatarsal-Tarsal Joint, Open Approach",
+    "price": 9230,
+    "categoryId": 1
+  },
+  {
+    "id": 20,
+    "name": "Wine - Sake",
+    "description": "Revision of Neurostimulator Lead in Azygos Vein, External Approach",
+    "price": 8794,
+    "categoryId": 2
+  }
+]
